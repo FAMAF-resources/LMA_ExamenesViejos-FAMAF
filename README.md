@@ -1,6 +1,7 @@
 # Licenciatura en Matematica Aplicada (LMA) - ExamenesViejos - FAMAF
 
 ## Primer año
+### [1ro 1C - Algoritmos y Programación](https://github.com/FAMAF-resources/LMA-1ro_1C-Examenes_Viejos_Algoritmos_y_Programacion-FAMAF)
 ### [1ro 2C - Física I](https://github.com/FAMAF-resources/LMA-1ro_2C-Examenes_Viejos_Fisica_I-FAMAF)
 
 ## Segundo año
